@@ -2,8 +2,8 @@
 
 ```
 gem install bundler jekyll
-jekyll new naraths.blog --blank
-cd naraths.blog
+jekyll new newsite --blank
+cd newsite
 rbenv local 3.1.0
 ```
 
